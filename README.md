@@ -1,6 +1,6 @@
 # LoginApp
 
-Se agrega libreria de sweetalert2 (https://sweetalert2.github.io/)
+Se agrega libreria de sweetalert2 para manejo de alertas (https://sweetalert2.github.io/)
 
 Cascaron de un login que se utilizara
 
